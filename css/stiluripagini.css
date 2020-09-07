@@ -1,0 +1,50 @@
+#boxx1{
+	height: 800px;
+
+}
+#boxx1_img{
+	
+	float: left;
+width: 30%;
+}
+#boxx1_img h1{
+	text-align: center;
+	font-size: 40px;
+	padding: 5% 5%;
+}
+#boxx1_text{
+	float: left;
+	width: 50%;
+	height: 100%;
+	
+	padding: 50px 30px;
+	}
+.t1{
+	font-size: 1.2em;
+	align-content: left;
+}	
+#boxx1_table{
+	float: right;
+	width: 20%;
+	text-align: center;
+}
+#boxx1_table table{
+	padding: 20px;
+	 margin-left:auto; 
+	 margin-right:auto;
+}
+#boxx1_table table img{
+	height: 100px;
+	width: 100px;
+	border-radius: 10px;
+
+	box-shadow: 0px 8px 10px 0px rgba(0,0,0,0.6);
+}
+#boxx1_img img{
+
+	border-radius: 30px;
+	border: 10px solid grey;
+	border-radius: 4px;
+	padding: 0px;
+	width: 400px;
+}
